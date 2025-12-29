@@ -17,7 +17,7 @@ const Header = ({ onNavigate }) => {
             onClick={() => handleNavigate('home')}
             className="font-serif text-2xl md:text-3xl text-stone-800 tracking-tight hover:text-amber-700 transition-colors"
           >
-            Curated Threads
+            Shaya Popup
           </button>
           
           <nav className="hidden md:flex items-center gap-6">
